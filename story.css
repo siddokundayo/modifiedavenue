@@ -1,0 +1,58 @@
+html {background-color: black;}
+body {font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+    margin: 1em;
+    padding: 3em;
+}
+h1 {color: #ffffff;}
+p {color: #FFF;}
+body { padding : 1em 3em;}
+
+
+#square {/*白四角描画*/
+    z-index: 0;
+    position: absolute;
+    top: 3.1em;
+	width:50px;
+	height:50px;
+	background:#ffffff;
+}
+
+#rectangle {/* 長方形 */
+	width:110px;
+	height:26px;
+	background:#FFF;
+    position: absolute;
+    top: 3.5em;
+    left: 24em;
+    z-index: 0;
+}
+.title h4{/*タイトルロゴ描画*/
+    float: left; width: 4em;
+    color: rgb(0, 0, 0);
+    position: relative;
+    z-index: 1;
+}
+.title h1{/*サブタイ*/
+    float: left; width: 8em;
+}
+.title h2{/*サブタイ(日本語)*/
+    float: left; width: 16em;
+    color: #000;
+    z-index: 1;
+    position: relative;
+}
+.story p{/*本編*/
+    padding: 1em;
+    clear:left;
+    line-height:  2.5em;
+    margin: 4em;
+    font-size: 1em;
+}
+ .textbig:first-letter {/*本編一文字目拡大*/
+    font-size:2em;
+    color:rgb(148, 53, 83);
+   }
+a{
+    text-align: center;
+    position: relative;
+}
