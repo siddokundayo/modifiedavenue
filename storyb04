@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang = "ja">
+    <head><link rel="stylesheet" type=
+        "text/css" href="story.css">
+        <meta charset="UTF-8">
+        <title>恢復事例 | Alice - 04</title>
+    </head>
+     <body>
+        <div class="title"> 
+            <div id="square"></div>
+            <h4>事恢<br>例復</h4>
+            <h1>Alice side - 04</h1>
+            <div id="rectangle"></div>
+            <h2>救済計画。</h2>
+            </div>
+        <div class="story">
+            <p class="textbig">あたたかい。<br>
+                わたしの両手は鋭利なガラスを通してアリスちゃんの喉へ接続されていました。<br>
+                接合部にはあたたかくあかい液体。<br>
+                <br>
+                わたしはこの手でアリスちゃんを――、<br>
+                <br>
+                --;<br>
+                <br>
+                初めから確定していたイベントでした。言い換えるとそれは運命かもしれません。<br>
+                <br>
+                アリスちゃん――アマガイ・アリスは、わたしたちが探し続けていた「天使」でした。わたしたちが目的――みんなで救われる、を果たすために必要不可欠な贄でした。
+                <br>
+                --;<br>
+                <br>
+                「この救済計画には必要不可欠なものが3つある。第一に、・・・」<br>
+                <br>
+                第一に、執行者。計画を遂行する人員=わたしたち。<br>
+                <br>
+                第二に、救済対象。この都市に暮らす人々=みんな。<br>
+                <br>
+                そしてなにより、天使=贄。救済の材料(=いまならわかる、それがアリスちゃん。)<br>
+                <br>
+                --;<br>
+                <br>
+                わたしたちの救済計画。<br>
+                終わりゆくこの世界から、みんなを救う方舟を浮かべる。<br>
+                ココロちゃんとわたしなら、きっと――。<br>
+ </p></div><!--本文-->
+    <a href="index.html"><img src="modoru.png" width="100px"
+        height="100px"></a>>
+        </body>
+</html>
